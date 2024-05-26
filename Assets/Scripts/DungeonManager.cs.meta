@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7de5b8a57409e5c48af9fc88a261c2e6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spawn3x1x3Prefab: {instanceID: 0}
+  - room3x1x2Prefab: {instanceID: 0}
+  - stair2x2x1Prefab: {instanceID: 0}
+  - boss5x3x3Prefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
